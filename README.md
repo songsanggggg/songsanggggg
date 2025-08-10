@@ -7,3 +7,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=songsanggggg&show_icons=true&locale=en" alt="songsanggggg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=songsanggggg&" alt="songsanggggg" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songsanggggg&layout=compact" alt="Top Languages">
+</p>
